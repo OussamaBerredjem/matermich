@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632597314673",
+    "project_id": "matermich-7828c",
+    "storage_bucket": "matermich-7828c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632597314673:android:d589a7d6602b6f3f5bafd0",
+        "android_client_info": {
+          "package_name": "com.example.matermich"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCfPSoZoPzO2btebU5stDzI--Ew7AhTeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
