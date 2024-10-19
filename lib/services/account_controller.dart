@@ -27,6 +27,7 @@ class AccountController extends GetxController{
     if(token!=null){
      await  _firestore.collection("users").doc(uid).update({"notificationID":token});
      await addHandler();
+     //hy
     }
 
   }
